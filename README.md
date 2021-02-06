@@ -1,1 +1,1 @@
-# CC. THis is public project!
+# CC. This is public project!
